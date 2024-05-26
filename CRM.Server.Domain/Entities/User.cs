@@ -12,4 +12,3 @@ public class User : Auditable
     public string Salt { get; set; }
     public UserRole Role { get; set; }
 }
-
